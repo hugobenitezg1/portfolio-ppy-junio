@@ -1,0 +1,11 @@
+p {
+    color: rgb(129, 23, 51);
+    background-color: green;
+}
+
+section {
+    color: rgb(23, 37, 129);
+    border: 2px red solid;
+    margin: 20px;
+    padding: 20px;
+}
